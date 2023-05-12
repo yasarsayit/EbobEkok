@@ -1,2 +1,2 @@
 # EbobEkok
-program that finds the EBOB and LCM values ​​of two numbers
+program that finds the EBOB and EKOK values ​​of two numbers
